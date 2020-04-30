@@ -17,4 +17,16 @@ public class AppiumTest {
 		System.out.println("print IOS App");
 	}
 	
+	@Test
+	public void GitDemorevise()
+	{
+		System.out.println("gitdemorevise added test");
+	}
+	
+	@Test
+	public void GitDemorevise2()
+	{
+		System.out.println("gitdemorevise added test 2");
+	}
+	
 }
