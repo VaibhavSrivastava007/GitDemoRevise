@@ -11,8 +11,16 @@ public class RestAPITest {
 	}
 	
 	@Test
-	public void delettwitter()
+	public void Gitstuffrevise3()
 	{
-		System.out.println("Print delete twitter");
+		System.out.println("gitdemorevise added test 3");
 	}
+	
+	@Test
+	public void Gitstuffrevise4()
+	{
+		System.out.println("gitdemorevise added test 4");
+	}
+	
+	
 }
