@@ -17,4 +17,10 @@ public class SeleniumTest {
 	{
 		System.out.println("print elements UI");
 	}
+	
+	@Test
+	public void devgitdemoSelenium()
+	{
+		System.out.println("method for devgitdemo selenium");
+	}
 }

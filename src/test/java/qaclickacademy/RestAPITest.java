@@ -23,4 +23,9 @@ public class RestAPITest {
 	}
 	
 	
+	@Test
+	public void devGitDemoAPI()
+	{
+		System.out.println("method for devgitDemo");
+	}
 }

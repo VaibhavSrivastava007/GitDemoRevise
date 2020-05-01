@@ -29,4 +29,10 @@ public class AppiumTest {
 		System.out.println("gitdemorevise added test 2");
 	}
 	
+	@Test
+	public void developerbrancdemo()
+	{
+		System.out.println("method for dev brancg git demo");
+	}
+	
 }
