@@ -35,4 +35,10 @@ public class AppiumTest {
 		System.out.println("method for dev brancg git demo");
 	}
 	
+	@Test
+	public void masterbrancdemo()
+	{
+		System.out.println("method for master brancg git demo");
+	}
+	
 }
